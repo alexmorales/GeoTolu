@@ -3,3 +3,4 @@ pandas
 folium
 streamlit_folium
 requests
+matplotlib
