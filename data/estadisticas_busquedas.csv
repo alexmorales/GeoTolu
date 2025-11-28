@@ -1,0 +1,46 @@
+timestamp,tipo_accion,zona,categoria,infraestructura,texto_busqueda,resultados
+2025-11-28T11:04:59,enter,Todas,Todas,Todas,educacion,1
+2025-11-28T11:05:45,enter,Todas,Todas,Todas,educacion,1
+2025-11-28T11:08:24,enter,Todas,Todas,Todas,educacion,1
+2025-11-28T11:08:37,enter,Todas,Todas,Todas,cultura,2
+2025-11-28T11:08:51,enter,Todas,Todas,Todas,inglesia,0
+2025-11-28T11:08:54,enter,Todas,Todas,Todas,iglesia,2
+2025-11-28T11:08:54,boton_filtro,Todas,Todas,Todas,iglesia,2
+2025-11-28T11:09:15,enter,Todas,Todas,Todas,educacion,1
+2025-11-28T11:09:15,boton_filtro,Todas,Todas,Todas,educacion,1
+2025-11-28T11:24:03,enter,Todas,Todas,CASA DE LA CULTURA  MUNICIPAL,educacion,0
+2025-11-28T11:24:05,boton_filtro,Todas,Todas,CASA DE LA CULTURA  MUNICIPAL,educacion,0
+2025-11-28T11:24:09,boton_filtro,Todas,Todas,Todas,educacion,1
+2025-11-28T11:24:14,enter,Todas,Todas,Todas,cultura,2
+2025-11-28T11:24:14,boton_filtro,Todas,Todas,Todas,cultura,2
+2025-11-28T11:24:19,enter,Todas,Todas,Todas,iglesia,2
+2025-11-28T11:24:19,boton_filtro,Todas,Todas,Todas,iglesia,2
+2025-11-28T11:25:05,enter,Todas,Todas,Todas,publico,2
+2025-11-28T11:25:13,enter,Todas,Todas,Todas,espacio publico,0
+2025-11-28T11:25:17,enter,Todas,Todas,Todas,espacio,8
+2025-11-28T11:25:27,enter,Todas,Todas,Todas,cultura,2
+2025-11-28T11:25:28,boton_filtro,Todas,Todas,Todas,cultura,2
+2025-11-28T11:25:31,enter,Todas,Todas,Todas,publico,2
+2025-11-28T11:25:31,boton_filtro,Todas,Todas,Todas,publico,2
+2025-11-28T11:25:35,enter,Todas,Todas,Todas,educacion,1
+2025-11-28T11:25:35,boton_filtro,Todas,Todas,Todas,educacion,1
+2025-11-28T11:25:38,enter,Todas,Todas,Todas,iglesia,2
+2025-11-28T11:25:38,boton_filtro,Todas,Todas,Todas,iglesia,2
+2025-11-28T11:29:23,enter,Todas,Todas,Todas,educacion,1
+2025-11-28T11:29:23,boton_filtro,Todas,Todas,Todas,educacion,1
+2025-11-28T11:30:42,enter,Todas,Todas,Todas,salud,1
+2025-11-28T11:30:43,boton_filtro,Todas,Todas,Todas,salud,1
+2025-11-28T11:31:25,boton_filtro,Todas,ADMINISTRACIÓN PÚBLICA,Todas,,3
+2025-11-28T11:31:31,boton_filtro,Todas,CENTRO DE DESARROLLO INFANTIL,Todas,,1
+2025-11-28T11:31:43,boton_filtro,URBANA,Todas,Todas,,55
+2025-11-28T11:48:49,enter,Todas,Todas,AEROPUERTO GOLFO DE MORROSQUILO,Salud,0
+2025-11-28T11:48:49,boton_filtro,Todas,Todas,AEROPUERTO GOLFO DE MORROSQUILO,Salud,0
+2025-11-28T11:49:01,enter,Todas,Todas,Todas,Iglesia,2
+2025-11-28T11:49:01,boton_filtro,Todas,Todas,Todas,Iglesia,2
+2025-11-28T11:49:11,enter,Todas,Todas,Todas,Rural,1
+2025-11-28T11:49:11,boton_filtro,Todas,Todas,Todas,Rural,1
+2025-11-28T11:49:34,enter,Todas,Todas,Todas,Alcaldia,0
+2025-11-28T11:49:34,boton_filtro,Todas,Todas,Todas,Alcaldia,0
+2025-11-28T11:49:39,enter,Todas,Todas,Todas,Publico,2
+2025-11-28T11:49:39,boton_filtro,Todas,Todas,Todas,Publico,2
+2025-11-28T11:50:49,boton_filtro,RURAL,Todas,Todas,,16
